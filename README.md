@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Filipe Caetano
 - ✔️ Full Stack Developer 
-- :computer: Python, JS, Go.
+- :computer: Python, JS, Go, etc.
 - 📫 Reach Me on LinkedIn -> https://www.linkedin.com/in/filipe-caetano-34b4151b9/
